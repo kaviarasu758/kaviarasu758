@@ -1,18 +1,23 @@
-## Hi there 👋 It's me Kaviarasu
+# 💫 Hi 👋, I'm Imran Alam
+<!--**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India* -->
 
-<!--
-**kaviarasu758/kaviarasu758** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+Email Me 👉 ✉️ **kaviarasurp758@gmail.com** For Project or Anything Else. 😊😊
 
-Here are some ideas to get you started:
+- 🔭 **I’m currently working on:** Store Management
+- 🌱 **I’m currently learning:** Ai/Ml
+<!--- 👯 **I’m looking to collaborate on:** Enter your project name and info-->
+- 🤔 **I’m looking for help with:** Your project here
+- 💬 **Ask me about:** Development, Tech Support
+- 📫 **How to reach me:** kaviarasurp758@gmail.com
+- 😄 **Pronouns:** kaviarasu sir
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_kavi_rp_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kaviarasu-rp-509639305) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaviarasurp758@gmail.com) 
