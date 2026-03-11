@@ -9,7 +9,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=kaviarasu758&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaviarasu758&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+//## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kaviarasu758&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
