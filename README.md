@@ -4,8 +4,7 @@
 Email Me 👉 ✉️ **kaviarasurp758@gmail.com** For Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Store Management
-- 🌱 **I’m currently learning:** Ai/Ml        <!--- 👯 **I’m looking to collaborate on:** Enter your project name and info-->
-- 🤔 **I’m looking for help with:** Your project here
+- 🌱 **I’m currently learning:** Ai/Ml        <!--- 👯 **I’m looking to collaborate on:** Enter your project name and info🤔 **I’m looking for help with:** Your project here -->
 - 💬 **Ask me about:** Development, Tech Support
 - 📫 **How to reach me:** kaviarasurp758@gmail.com
 - 😄 **Pronouns:** kaviarasu sir
