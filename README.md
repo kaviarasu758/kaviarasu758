@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋 It's me Kaviarasu
+
+Computer Science Eengineering Student 
+<
+img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/40/34/47f8342cec72b800463bf003eac1257e.gif">
 
 <!--
 **kaviarasu758/kaviarasu758** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
