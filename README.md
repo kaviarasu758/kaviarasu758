@@ -7,7 +7,7 @@ Email Me 👉 ✉️ **kaviarasurp758@gmail.com** For Project or Anything Else. 
 - 🌱 **I’m currently learning:** Cloud Computing   <!--- 👯 **I’m looking to collaborate on:** Enter your project name and info🤔 **I’m looking for help with:** Your project here -->
 - 💬 **Ask me about:** Development, Tech Support
 - 📫 **How to reach me:** kaviarasurp758@gmail.com
-- 😄 **Pronouns:** kaviarasu sir
+- 😄 **Pronouns:** kaviarasu
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 
